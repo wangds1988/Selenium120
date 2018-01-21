@@ -12,3 +12,4 @@ if __name__ == '__main__':
     #文本的测试用例运行器   run执行测试用例并且在控制台输出文本的测试结果
 
     unittest.TextTestRunner().run(test_case)
+    #AAAA
